@@ -3,4 +3,5 @@ if() {
     https://play.google.com/store/apps/details?id=nl.schoolmaster.magister.mobile
    https://office365.com
    https://davinci.magister.net/
+   https://gonative.io/
 }
