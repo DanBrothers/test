@@ -1,7 +1,13 @@
-if() {
-  https://www.w3schools.com/
-    https://play.google.com/store/apps/details?id=nl.schoolmaster.magister.mobile
-   https://office365.com
-   https://davinci.magister.net/
-   https://gonative.io/
+if(you.happy) {
+  live();
+}else {
+  you.drinkcoffee(1);
+  live();
+}
+
+function live() {
+  eat();
+  code();
+  sleep(10); //number = minutes
+  repeat(Infinity);
 }
