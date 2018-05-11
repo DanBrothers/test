@@ -1,3 +1,4 @@
+// just some funny js, to see how github editor works (pritty good)
 if(you.happy) {
   live();
 }else {
